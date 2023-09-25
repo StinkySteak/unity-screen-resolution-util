@@ -1,0 +1,15 @@
+{
+    "name": "com.stinkysteak.screen-resolution-util",
+    "version": "0.1.0",
+    "displayName": "Screen Resolution Util",
+    "description": "Util modules to obtain screen resolution",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/StinkySteak/unity-screen-resolution-util",
+    "changelogUrl": "https://github.com/StinkySteak/unity-screen-resolution-util/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/StinkySteak/unity-screen-resolution-util/blob/main/LICENSE",
+    "author": {
+      "name": "Stinkysteak",
+      "email": "stinkysteak@steaksoft.com",
+      "url": "https://steaksoft.net"
+    }
+  }
